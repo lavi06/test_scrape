@@ -1,0 +1,5 @@
+openpyxl
+requests
+streamlit
+pandas
+bs4
