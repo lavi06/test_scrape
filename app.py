@@ -120,7 +120,7 @@ def scrape_website():
     offset = 0
     limit = 100
 
-    while offset >= 0 and offset < 500:
+    while offset >= 0 and offset < 5000:
 
         val = f"Page : {offset/100 + 1}"
         print(val)
